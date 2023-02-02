@@ -28,5 +28,5 @@ public class WebTextBox {
 		if(WebElementCommon.isClickable(textBox,fieldName,logger)){
 			textBox.clear();
 }}
-
+	//comment
 }
